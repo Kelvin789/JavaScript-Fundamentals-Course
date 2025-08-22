@@ -1,4 +1,4 @@
-function fizzBuzzMosh(input) {
+function fizzBuzz(input) {
     if (typeof input !== 'number')
         return NaN
     
